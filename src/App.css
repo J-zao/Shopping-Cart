@@ -32,6 +32,12 @@
   border-radius: 10px;
 }
 
+.Total {
+  width: 422px;
+  display: flex;
+  justify-content: flex-end;
+}
+
 .Price {
   position: absolute;
   right: 50px;

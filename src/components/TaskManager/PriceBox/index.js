@@ -15,7 +15,7 @@ class PriceBox extends Component {
         });
 
         return (
-            <div>{total.toFixed(2)}</div>
+            <div className={'Total'}>{total.toFixed(2)}</div>
         );
       }
 }
