@@ -1,0 +1,45 @@
+  
+[
+    {
+        "id": 1,
+        "name": "Travel book",
+        "UnitPrice": 12.49,
+        "TaxRate": 0
+    },  
+    {
+        "id": 2,
+        "name": "Music CD",
+        "UnitPrice": 14.99,
+        "TaxRate": 0.2
+    }, 
+    {
+        "id": 3,
+        "name": "Chocolate bar",
+        "UnitPrice": 0.85,
+        "TaxRate": 0
+    }, 
+    {
+        "id": 4,
+        "name": "Imported box of chocolates",
+        "UnitPrice": 10.00,
+        "TaxRate": 0
+    }, 
+    {
+        "id": 5,
+        "name": "Imported bottle of perfume",
+        "UnitPrice": 47.50,
+        "TaxRate": 0.25
+    }, 
+    {
+        "id":6,
+        "name": "bottle of perfume",
+        "UnitPrice": 18.99,
+        "TaxRate": 0.20
+    },
+    {
+        "id": 7,
+        "name": "Packet of painkillers",
+        "UnitPrice": 9.75,
+        "TaxRate": 0.2
+    }   
+]
